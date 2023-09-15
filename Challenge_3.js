@@ -16,7 +16,7 @@ console.log(a*b);
 //```javascript
 //const greeting = 'Hello ';
 //const name = 'JavaScripters';
-//console.log greeting + name;
+//console.log greeting + name_1;
 //```
 
 const greeting = 'Hello ';
